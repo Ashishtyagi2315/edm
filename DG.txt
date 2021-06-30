@@ -1,0 +1,122 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+.style6 {color: #666666}
+.style13 {font-size: 18px}
+.style14 {color: #333333}
+.style18 {
+	font-weight: bold;
+	color: #DD0000;
+	font-size: x-large;
+	font-family: "Courier New", Courier, monospace;
+}
+.style21 {
+	font-size: xx-large;
+	font-weight: bold;
+	color: #333333;
+	font-family: "Courier New", Courier, monospace;
+}
+.style22 {font-size: 16px; font-weight: bold; color: #333333; font-family: "Courier New", Courier, monospace; }
+.style23 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+}
+.style24 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 36px;
+}
+.style30 {font-size: 16px; font-weight: bold; color: #440000; font-family: "Courier New", Courier, monospace; }
+.style49 {font-size: xx-large; font-weight: bold; color: #FFFFFF; font-family: "Courier New", Courier, monospace; }
+body {
+	background-color: #444444;
+	background-image: url(2.jpg);
+}
+.style51 {font-size: xx-large; font-weight: bold; color: #000011; font-family: "Courier New", Courier, monospace; }
+.style54 {font-weight: bold; color: #DDDDDD; font-size: x-large; font-family: "Courier New", Courier, monospace; }
+.style55 {color: #FFFFFF}
+.style56 {text-decoration: blink}
+.style57 {font-size: 24px}
+.style58 {
+	font-family: "Courier New", Courier, monospace;
+	color: #DDDDDD;
+}
+.style59 {
+	font-weight: bold;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #DDDDDD;
+}
+.style60 {color: #DDDDDD}
+.style61 {font-size: xx-large; font-weight: bold; color: #DDDDDD; font-family: "Courier New", Courier, monospace; }
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('david-guetta-live-in-malaysia.jpg')">
+<div class="style55" align="left">
+  <h1 align="right"><span class="style56"><!--Electrnic Music -->
+  </span><img src="5.jpg" alt="" name="ABCD" id="ABCD" width="1306" height="478" border="0"><!-- TemplateBeginEditable name="EditRegion1" --><span class="style57"><!-- TemplateBeginEditable name="EditRegion1" --><!-- TemplateEndEditable --><span class="style58">ELECTRONIC DANCE MUSIC,<br>
+  WORLD-WIDE PLAY MUSIC,<br>
+  MAKES UNITE PEOPLE THROUGH MUSIC,<br>
+THESE MUSICS WERE PLAYED BY DJ,<br>
+FROM MANY YEARS AND GOING ON,<br>
+WITH NEW DIVINE &amp; PASSION,<br>
+IN MAKING PEACE &amp; LOVE,<br>
+TO GROOVE INTO MUSIC.</span></span><!-- TemplateEndEditable --></h1>
+  <h1 align="justify"><span class="style13"><img src="31.jpg" alt="live" width="660" height="325"></span><!-- TemplateBeginEditable name="EditRegion1" --> <a href="David Guetta Ft. Sam Martin - Dangerous (Varo Trap Edition Remix) - [MP3Juices.to].mp3" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('DG','','david-guetta-live-in-malaysia.jpg',1)"><img src="file:///A:/o%20drive/project/sharda%20project/website/David-Guetta-live1.jpg" name="DG" id="DG" width="600" height="230" border="0"></a><!-- TemplateEndEditable --></h1>
+  <form id="form1" name="form1" method="post" action="">
+    <label></label>
+    <p class="style59"> <span class="style24">DAVID GUETTA PERFORMING LIVE, SHOWS HOW ELECTRONIC MUSIC UNITE PEOPLE</span>. </p>
+  </form>
+</div>
+<p class="style6"><span class="style13"><span class="style14"><img src="David-Guetta-Dangerous.jpg" width="1273" height="392"></span></span></p>
+<p class="style54" align="right">STARTED HIS CAREER IN EARLY 1990'S IN PARIS, STARTED MIXING IN THE AGE OF 13 AND ON..,<br>
+</p>
+<p class="style54" align="right">AND AS NOW HE'S A FAMOUS DJ ARTIST IN THE HISTORY OF MUSIC WHO CREATED HOUSE MUSIC.</p>
+<p class="style18" align="right">
+<label></label>&nbsp;</p>
+<table width="1297" height="41" border="1">
+  <tbody><tr>
+    <th scope="col" width="318"><span class="style49"><a href="Pierre David Guetta.docx">ABOUT</a></span></th>
+    <th class="style21" scope="col" width="318"><a href="ALBUM.html">ALBUMS</a></th>
+    <th class="style21" scope="col" width="319"><a href="GALLERY1.html">GALLERY</a></th>
+    <th class="style21" scope="col" width="314"><a href="OTHERS.html">OTHER</a></th>
+  </tr>
+</tbody></table>
+<p class="style21" align="left">&nbsp;</p>
+<p class="style61" align="left">Watch David's video on clicking below. </p>
+<p class="style22"><span class="style23"><a href="DG.mp4"><img src="TITANIUMM.png" width="1366" height="768" border="0"></a></span></p>
+<p class="style51"><a href="http://youtube.com/watch?v=MAnD-VW-dEk" class="style60">DG</a></p>
+<p class="style30">&nbsp;</p>
+
+
+</body></html>
